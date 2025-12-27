@@ -10,6 +10,3 @@
 ![React](https://img.shields.io/badge/-React-61DAFB) ![Next.js](https://img.shields.io/badge/-Next.js-000000)
 
 ## 🔥 Projects
-- [AI Chatbot](link)
-- [Portfolio Site] (https://mypersonalportfolio-ebon.vercel.app)
-[![GitHub Streak](stats-url)](link)
