@@ -1,16 +1,16 @@
-## Hi there 👋
+# Welcome to Suhas's Github Profile👋
 
-<!--
-**Suhas04182/Suhas04182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 I'm Currently Pursuing B.Tech in CSE-AIML
+- 💻 Building AI agents & 
+- 🌱 Learning: C/C++, DSA, JS, HTML/CSS, PYTHON 
+- 📍 Miraj, Maharashtra
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+![React](https://img.shields.io/badge/-React-61DAFB) ![Next.js](https://img.shields.io/badge/-Next.js-000000)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Projects
+- [AI Chatbot](link)
+- [Portfolio Site](mypersonalportfolio-ebon.vercel.app)
+
+[![GitHub Streak](stats-url)](link)
