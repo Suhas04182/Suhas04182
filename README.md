@@ -8,8 +8,8 @@
 
 ## 🛠️ Skills
 • Programming Languages : Python, Java, C/C++                      
-• Tools & Technologies: HTML, CSS,      Machine Learning, Artificial Neural         Networks, Dsa, 
- JavaScript, Node.js, MySQL, Power BI,
- Figma, Canva, Git, AWS, AIML, UI/UX Design
+• Tools & Technologies: HTML, CSS, Machine Learning, Artificial Neural Networks, Dsa, 
+JavaScript, Node.js, MySQL, Power BI, Canva
+Figma, Git, AWS, AIML, UI/UX Design
 
 ## 🔥 Projects
