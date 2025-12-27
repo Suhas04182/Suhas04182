@@ -7,10 +7,10 @@
 - 📍 Miraj, Maharashtra
 
 ## 🛠️ Skills
-•Programming Languages: Python, Java, C
-•Tools & Technologies: HTML, CSS, Machine
+• Programming Languages: Python, Java, C
+• Tools & Technologies: HTML, CSS, Machine
   Learning, Artificial NeuralNetworks,
   JavaScript, Node.js, MySQL, Power BI,
-  Figma, Canva, Git, AWS, AIML, UI/UXDesign
+  Figma, Canva, Git, AWS, AIML, UI/UX Design
 
 ## 🔥 Projects
