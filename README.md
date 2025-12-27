@@ -11,4 +11,5 @@
 
 ## 🔥 Projects
 - [AI Chatbot](link)
-- [Portfolio Site] (mypersonalportfolio-ebon.vercel.app)
+- [Portfolio Site] (https://mypersonalportfolio-ebon.vercel.app)
+[![GitHub Streak](stats-url)](link)
