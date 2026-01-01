@@ -20,7 +20,7 @@ manual calculations entirely.
  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_suhas_159) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suhas-rajput-02019632a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajputsing596@gmail.com) 
-[![X](https://img.shields.io/badge/X-@Suhas04182-black?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Suhas04182)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Suhas04182)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Suhas04182&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Suhas04182&theme=dark&hide_border=false)<br/>
