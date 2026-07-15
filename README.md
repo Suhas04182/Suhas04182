@@ -4,7 +4,7 @@
 - 🎓 I'm Currently Pursuing B.Tech in CSE-AIML 
 - 💻 Building AI agents
 - 🌱 Learning: C/C++, DSA, JS, HTML/CSS, MYSQL, PYTHON, JAVA
-- 📍 Miraj, Maharashtra 
+- 📍 Miraj, Maharashtra
 
 
 # 💻 Tech Stack:
